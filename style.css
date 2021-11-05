@@ -1,0 +1,38 @@
+body {
+
+  margin-top: 50px;
+  background: #212940;
+}
+
+button {
+  width: 100px;
+  padding: 30px;
+  cursor: pointer;
+  font-size: 2rem;
+  border: 1px, solid #FFFFFF;
+  outline: none;
+  background-color: #9CB6FF;
+}
+
+.ops {
+    width: 200px;
+}
+
+button:hover {
+  background-color: #415280;
+}
+
+.output {
+  color: white;
+  font-size: 2.5rem;
+}
+
+.row {
+  padding: 5px;
+}
+.calculator {
+  margin: auto;
+  width: 35%;
+  border: 5px solid #FFFF00;
+  padding: 10px;
+}
